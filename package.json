@@ -1,5 +1,5 @@
 {
-  "name": "request-playground",
+  "name": "NodeserverPractice",
   "version": "1.0.0",
   "description": "First time using http request",
   "main": "https-native.js",
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/shritis/NodeserverPractice.git/issues"
   },
-  "homepage": "https://github.com/shritis/request-playground#readme"
+  "homepage": "https://github.com/shritis/NodeserverPractice#readme"
 }
