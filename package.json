@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shritis/request-playground.git"
+    "url": "git+https://github.com/shritis/NodeserverPractice.git"
   },
   "author": "Shriti Shrestha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shritis/request-playground/issues"
+    "url": "https://github.com/shritis/NodeserverPractice.git/issues"
   },
   "homepage": "https://github.com/shritis/request-playground#readme"
 }
