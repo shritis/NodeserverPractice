@@ -1,0 +1,19 @@
+{
+  "name": "request-playground",
+  "version": "1.0.0",
+  "description": "First time using http request",
+  "main": "https-native.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shritis/request-playground.git"
+  },
+  "author": "Shriti Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shritis/request-playground/issues"
+  },
+  "homepage": "https://github.com/shritis/request-playground#readme"
+}
